@@ -130,7 +130,7 @@
     "fastdom": "^1.0.11",
     "focus-trap-react": "^8.9.2",
     "fuse.js": "^3.4.5",
-    "fusioncharts": "^3.18.0",
+    "fusioncharts": "^3.21.1",
     "graphql": "^16.8.1",
     "history": "^4.10.1",
     "http-proxy": "^1.18.1",
